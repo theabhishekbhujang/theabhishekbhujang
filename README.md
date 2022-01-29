@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Abhishek
+# 👋 Hi, I'm Abhishek
 
 <!--
 **theabhishekbhujang/theabhishekbhujang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :pencil2: Tech Blogger
 
 
-## 🔎 Connect With Me On:
+# 🔎 Connect With Me On:
 
 :camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
 

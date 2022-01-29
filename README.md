@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 :link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
 
-# Trophy
+# :trophy: Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=theabhishekbhujang&theme=onedark)

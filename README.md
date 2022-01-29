@@ -29,3 +29,14 @@ Here are some ideas to get you started:
 :+1: Facebook: [@theabhishekbhujang](https://facebook.com/theabhishekbhujang)
 
 :globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
+
+:pill: Medium: [@theabhishekbhujang](https://medium.com/@theabhishekbhujang)
+
+:smiling_imp: Dev.to: [@theabhishekbhujang](https://dev.to/theabhishekbhujang)
+
+:link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
+
+
+# Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theabhishekbhujang&theme=onedark)](https://github.com/theabhishekbhujang/github-profile-trophy)

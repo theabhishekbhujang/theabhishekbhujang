@@ -25,16 +25,15 @@ Here are some ideas to get you started:
 
 :camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
 
-:bird: Twitter: [@abhishekbhujan](https://twitter.com/abhishekbhujan)
-
-:movie_camera: YouTube: [TechWiber](https://www.youtube.com/channel/UC33zMUiqsFEf81g7Vf0KZqA)
-
 :globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
 
 :link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
+:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/abhishekbhujan)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/abhishekbhujan)
+🎥 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC33zMUiqsFEf81g7Vf0KZqA?style=social)
+
+
 
 # :trophy: Trophy
 

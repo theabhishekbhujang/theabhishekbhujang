@@ -27,18 +27,14 @@ Here are some ideas to get you started:
 
 :bird: Twitter: [@abhishekbhujan](https://twitter.com/abhishekbhujan)
 
-:+1: Facebook: [@theabhishekbhujang](https://facebook.com/theabhishekbhujang)
-
 :movie_camera: YouTube: [TechWiber](https://www.youtube.com/channel/UC33zMUiqsFEf81g7Vf0KZqA)
 
 :globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
 
-:pill: Medium: [@theabhishekbhujang](https://medium.com/@theabhishekbhujang)
-
-:smiling_imp: Dev.to: [@theabhishekbhujang](https://dev.to/theabhishekbhujang)
-
 :link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/abhishekbhujan)
 
 # :trophy: Trophy
 

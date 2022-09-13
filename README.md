@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Hacker - Autodidact
+🐱‍💻 Hacker - Autodidact
 
 :pencil2: Tech Blogger
 
+👨‍💻 Programmer
 
+🤓 Geek
 # 🔎 Connect With Me On:
 
 :camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)

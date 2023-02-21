@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 :link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
-:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/theabhibhujang)
+:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://twitter.com/theabhibhujang)
 
 
 

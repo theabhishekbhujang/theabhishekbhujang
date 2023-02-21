@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 :bird: [![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/theabhibhujang)
 
-🎥 [![Youtube](https://img.shields.io/youtube/channel/subscribers/@theabhishekbhujang?style=social)](https://youtube.com/@theabhishekbhujang)
-
 
 
 # :trophy: Trophy

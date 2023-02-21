@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 :bird: [![Twitter Follow](https://img.shields.io/twitter/follow/abhishekbhujan?style=social)](https://twitter.com/theabhibhujang)
 
-🎥 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC33zMUiqsFEf81g7Vf0KZqA?style=social)](https://youtube.com/@theabhishekbhujang)
+🎥 [![Youtube](https://img.shields.io/youtube/channel/subscribers/@theabhishekbhujang?style=social)](https://youtube.com/@theabhishekbhujang)
 
 
 

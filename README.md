@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🤓 Geek
 # 🔎 Connect With Me On:
 
-<!- **:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
+<!--:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
 
 :globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
 

@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 🤓 Geek
 # 🔎 Connect With Me On:
 
-:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
+!:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
 
-:globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
+!:globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
 
-:link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
+!:link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
 :bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://twitter.com/theabhibhujang)
 

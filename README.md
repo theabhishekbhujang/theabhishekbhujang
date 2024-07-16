@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 <!--:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
 
-:globe_with_meridians: Blog: [TechWiber](https://techwiber.blogspot.com)
+:globe_with_meridians: Blog: [Medium](https://theabhishekbhujang.medium.com/)
 
 :link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 -->
 
-:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://twitter.com/theabhibhujang)
+:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://x.com/theabhibhujang)
 
 
 

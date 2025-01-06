@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 :linkedin: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 -->
 
-:bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://x.com/theabhibhujang)
+[![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://x.com/theabhibhujang)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/theabhishekbhujang)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/theabhishekbhujang)
 
 
 

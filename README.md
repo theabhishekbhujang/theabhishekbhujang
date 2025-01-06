@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 :bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://x.com/theabhibhujang)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/theabhishekbhujang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social)](https://linkedin.com/in/theabhishekbhujang)
 
 
 

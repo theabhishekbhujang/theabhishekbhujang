@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 :globe_with_meridians: Blog: [Medium](https://theabhishekbhujang.medium.com/)
 
-:link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
+
 -->
 
 :bird: [![Twitter Follow](https://img.shields.io/twitter/follow/theabhibhujang?style=social)](https://x.com/theabhibhujang)
 
-
+:link: LinkedIn: [@theabhishekbhujang](https://linkedin.com/in/theabhishekbhujang)
 
 # :trophy: Trophy
 

@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐱‍💻 Hacker - Autodidact
-
-:pencil2: Tech Blogger
-
-👨‍💻 Programmer
+23 | MCA 📚 | Programmer 💻 | Exploring Cybersecurity 🛡️ & AI/ML 🤖
 
 🤓 Geek
 # 🔎 Connect With Me On:

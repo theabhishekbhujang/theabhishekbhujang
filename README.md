@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 23 | MCA 📚 | Programmer 💻 | Exploring Cybersecurity 🛡️ & AI/ML 🤖
 
-🤓 Geek
+
 # 🔎 Connect With Me On:
 
 <!--:camera: Instagram: [@theabhishekbhujang](https://instagram.com/theabhishekbhujang)
